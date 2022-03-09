@@ -1,0 +1,13 @@
+[2022-02-23 15:17:26.654] [exthost] [info] Extension host with pid 3813 started
+[2022-02-23 15:17:26.678] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805/vscode.lock': Lock acquired.
+[2022-02-23 15:17:26.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-23 15:17:26.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-23 15:17:26.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-23 15:17:26.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-23 15:17:27.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-23 15:17:27.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-23 15:17:27.163] [exthost] [info] Eager extensions activated
+[2022-02-23 15:17:50.996] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2022-02-23 18:45:53.065] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-23 18:45:53.067] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-23 18:45:53.098] [exthost] [info] Extension host with pid 3813 exiting with code 0

@@ -1,0 +1,19 @@
+[2022-02-24 11:55:15.696] [exthost] [info] Extension host with pid 5929 started
+[2022-02-24 11:55:15.708] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/03170a3a663bd3ee255690017d558f6b/vscode.lock': Lock acquired.
+[2022-02-24 11:55:15.793] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2022-02-24 11:55:16.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-24 11:55:16.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-24 11:55:16.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-24 11:55:16.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-24 11:55:17.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-24 11:55:17.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-24 11:55:17.174] [exthost] [info] Eager extensions activated
+[2022-02-24 11:55:31.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-02-24 11:55:31.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-02-24 11:55:31.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-02-24 11:59:18.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-24 11:59:18.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-24 11:59:18.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-24 12:00:46.720] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-24 12:00:46.720] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/03170a3a663bd3ee255690017d558f6b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-24 12:00:46.742] [exthost] [info] Extension host with pid 5929 exiting with code 0

@@ -1,0 +1,33 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:45329 (IPv4)
+Extension host agent listening on 45329
+
+[22:06:26] Extension host agent started.
+[22:06:27] [127.0.0.1][f1cd0ce5][ManagementConnection] New connection established.
+[22:06:27] [127.0.0.1][99f39e4e][ExtensionHostConnection] New connection established.
+[22:06:27] [127.0.0.1][99f39e4e][ExtensionHostConnection] <2190> Launched Extension Host Process.
+[22:06:54] [127.0.0.1][f1cd0ce5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:06:54] [127.0.0.1][99f39e4e][ExtensionHostConnection] <2190> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[22:06:54] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[22:06:59] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[22:06:59] Cancelling previous shutdown timeout
+[22:06:59] [127.0.0.1][a0465df8][ManagementConnection] New connection established.
+[22:06:59] [127.0.0.1][f3bd92a6][ExtensionHostConnection] New connection established.
+[22:06:59] [127.0.0.1][f3bd92a6][ExtensionHostConnection] <2352> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[22:11:59] New EH opened, aborting shutdown
+[22:14:30] [127.0.0.1][a0465df8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:14:30] [127.0.0.1][f3bd92a6][ExtensionHostConnection] <2352> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[22:14:30] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[22:19:30] Last EH closed, shutting down

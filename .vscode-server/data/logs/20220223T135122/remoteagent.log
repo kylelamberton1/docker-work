@@ -1,0 +1,44 @@
+[2022-02-23 13:51:22.373] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-23 13:51:22.373] [remoteagent] [info] Extension host agent started.
+[2022-02-23 13:51:22.447] [remoteagent] [error] [127.0.0.1][cc2b0c58][ManagementConnection] Unknown reconnection token (never seen).
+[2022-02-23 13:51:27.700] [remoteagent] [info] [127.0.0.1][f98e0db2][ManagementConnection] New connection established.
+[2022-02-23 13:51:27.933] [remoteagent] [info] [127.0.0.1][04e1f33b][ExtensionHostConnection] New connection established.
+[2022-02-23 13:51:27.940] [remoteagent] [info] [127.0.0.1][04e1f33b][ExtensionHostConnection] <1852> Launched Extension Host Process.
+[2022-02-23 13:51:47.044] [remoteagent] [info] [127.0.0.1][f98e0db2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-23 13:51:47.269] [remoteagent] [info] [127.0.0.1][4f6d720d][ManagementConnection] New connection established.
+[2022-02-23 13:51:47.302] [remoteagent] [info] [127.0.0.1][bbcfcc11][ExtensionHostConnection] New connection established.
+[2022-02-23 13:51:47.306] [remoteagent] [info] [127.0.0.1][bbcfcc11][ExtensionHostConnection] <2045> Launched Extension Host Process.
+[2022-02-23 13:56:47.380] [remoteagent] [info] [127.0.0.1][04e1f33b][ExtensionHostConnection] <1852> Extension Host Process exited with code: 0, signal: null.
+[2022-02-23 15:17:15.496] [remoteagent] [info] [127.0.0.1][4f6d720d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-23 15:17:15.518] [remoteagent] [info] [127.0.0.1][bbcfcc11][ExtensionHostConnection] <2045> Extension Host Process exited with code: 0, signal: null.
+[2022-02-23 15:17:15.518] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-23 15:17:24.555] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-23 15:17:24.555] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-23 15:17:24.792] [remoteagent] [info] [127.0.0.1][b0dc7f83][ManagementConnection] New connection established.
+[2022-02-23 15:17:24.877] [remoteagent] [info] [127.0.0.1][89be6514][ExtensionHostConnection] New connection established.
+[2022-02-23 15:17:24.882] [remoteagent] [info] [127.0.0.1][89be6514][ExtensionHostConnection] <3813> Launched Extension Host Process.
+[2022-02-23 15:17:49.360] [remoteagent] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-02-23 15:17:49.451] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-02-23 15:17:50.205] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/kylelamberton1/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.20.0
+[2022-02-23 15:17:50.416] [remoteagent] [info] Extracted extension to /home/kylelamberton1/.vscode-server/extensions/.db776afc-7255-484f-adab-e5e8a2892822: ms-azuretools.vscode-docker
+[2022-02-23 15:17:50.432] [remoteagent] [info] Renamed to /home/kylelamberton1/.vscode-server/extensions/ms-azuretools.vscode-docker-1.20.0
+[2022-02-23 15:17:50.440] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-02-23 15:17:50.440] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-02-23 15:22:24.557] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-23 17:21:04.832] [remoteagent] [info] [127.0.0.1][b0dc7f83][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-02-23 18:29:54.083] [remoteagent] [info] [127.0.0.1][b0dc7f83][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-02-23 18:29:54.084] [remoteagent] [info] [127.0.0.1][b0dc7f83][ManagementConnection] The client has reconnected.
+[2022-02-23 18:29:54.159] [remoteagent] [info] [127.0.0.1][89be6514][ExtensionHostConnection] The client has reconnected.
+[2022-02-23 18:45:53.073] [remoteagent] [info] [127.0.0.1][b0dc7f83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-23 18:45:53.109] [remoteagent] [info] [127.0.0.1][89be6514][ExtensionHostConnection] <3813> Extension Host Process exited with code: 0, signal: null.
+[2022-02-23 18:45:53.109] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-23 18:50:53.110] [remoteagent] [info] Last EH closed, shutting down

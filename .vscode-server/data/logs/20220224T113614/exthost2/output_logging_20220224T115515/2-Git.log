@@ -1,0 +1,38 @@
+[2022-02-24T11:55:17.096Z] Validating found git in: git
+[2022-02-24T11:55:17.143Z] Using git 2.25.1 from git
+[2022-02-24T11:55:17.201Z] > git rev-parse --git-dir [7ms]
+[2022-02-24T11:55:17.207Z] Open repository: /home/kylelamberton1/duo-task
+[2022-02-24T11:55:17.229Z] > git symbolic-ref --short HEAD [6ms]
+[2022-02-24T11:55:17.238Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2022-02-24T11:55:17.248Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-02-24T11:55:17.253Z] > git remote --verbose [7ms]
+[2022-02-24T11:55:17.266Z] > git config --get commit.template [7ms]
+[2022-02-24T11:55:27.046Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/app.py [2ms]
+[2022-02-24T11:55:27.052Z] > git cat-file -s 7461eb811c5bcb54fc66fee5e86b1bd554c4dd5f [2ms]
+[2022-02-24T11:55:29.118Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/Dockerfile [3ms]
+[2022-02-24T11:55:29.122Z] > git cat-file -s 59183c098286c1abf3bb57bd9f2f454426647482 [2ms]
+[2022-02-24T11:55:30.749Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/nginx.conf [3ms]
+[2022-02-24T11:55:30.765Z] > git cat-file -s 7211f007680a6b2918d94a3b6f6831455c20ed10 [3ms]
+[2022-02-24T11:55:31.769Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/README.md [11ms]
+[2022-02-24T11:55:31.935Z] > git cat-file -s 13e99ff01c75a56bdaf07f633042580db45be657 [161ms]
+[2022-02-24T11:55:32.409Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/requirements.txt [3ms]
+[2022-02-24T11:55:32.421Z] > git cat-file -s 7deaf3b366b1d168e3d9b5f5b4a00b5e618e14f5 [7ms]
+[2022-02-24T11:55:34.000Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/app.py [4ms]
+[2022-02-24T11:55:34.005Z] > git cat-file -s 7461eb811c5bcb54fc66fee5e86b1bd554c4dd5f [2ms]
+[2022-02-24T11:55:39.466Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/Dockerfile [3ms]
+[2022-02-24T11:55:39.472Z] > git cat-file -s 59183c098286c1abf3bb57bd9f2f454426647482 [3ms]
+[2022-02-24T11:56:38.178Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/Dockerfile [3ms]
+[2022-02-24T11:56:38.184Z] > git cat-file -s 59183c098286c1abf3bb57bd9f2f454426647482 [3ms]
+[2022-02-24T11:56:40.204Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/Dockerfile [4ms]
+[2022-02-24T11:56:40.209Z] > git cat-file -s 59183c098286c1abf3bb57bd9f2f454426647482 [2ms]
+[2022-02-24T11:56:42.689Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/Dockerfile [3ms]
+[2022-02-24T11:56:42.695Z] > git cat-file -s 59183c098286c1abf3bb57bd9f2f454426647482 [3ms]
+[2022-02-24T12:00:21.424Z] > git clone https://gitlab.com/qacdevops/duo-task.git /home/kylelamberton1/duo-task --progress [644ms]
+[2022-02-24T12:00:21.424Z] Cloning into '/home/kylelamberton1/duo-task'...
+remote: Enumerating objects: 38, done.        
+remote: Total 38 (delta 0), reused 0 (delta 0), pack-reused 38        
+[2022-02-24T12:00:22.513Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-24T12:00:22.518Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-02-24T12:00:22.526Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-02-24T12:00:22.528Z] > git remote --verbose [3ms]
+[2022-02-24T12:00:22.536Z] > git config --get commit.template [2ms]

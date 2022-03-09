@@ -1,0 +1,17 @@
+[2022-03-08T22:07:05.734Z] Validating found git in: git
+[2022-03-08T22:07:05.808Z] Using git 2.25.1 from git
+[2022-03-08T22:07:05.886Z] > git rev-parse --git-dir [5ms]
+[2022-03-08T22:07:05.893Z] Open repository: /home/kylelamberton1/duo-task
+[2022-03-08T22:07:05.944Z] > git symbolic-ref --short HEAD [6ms]
+[2022-03-08T22:07:05.982Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [33ms]
+[2022-03-08T22:07:05.996Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-03-08T22:07:06.003Z] > git remote --verbose [11ms]
+[2022-03-08T22:07:06.017Z] > git config --get commit.template [6ms]
+[2022-03-08T22:07:06.062Z] > git rev-parse --git-dir [6ms]
+[2022-03-08T22:07:06.065Z] Open repository: /home/kylelamberton1/multi-stage-build-exercise
+[2022-03-08T22:07:06.091Z] > git symbolic-ref --short HEAD [7ms]
+[2022-03-08T22:07:06.101Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [6ms]
+[2022-03-08T22:07:06.121Z] > git remote --verbose [13ms]
+[2022-03-08T22:07:06.122Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-03-08T22:07:06.139Z] > git config --get commit.template [6ms]
+[2022-03-08T22:07:06.539Z] > git ls-files --stage -- /home/kylelamberton1/duo-task/flask-app/Dockerfile [10ms]

@@ -1,0 +1,64 @@
+[2022-02-24 11:36:14.782] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-24 11:36:14.782] [remoteagent] [info] Extension host agent started.
+[2022-02-24 11:36:14.877] [remoteagent] [error] [127.0.0.1][d79ac50b][ManagementConnection] Unknown reconnection token (never seen).
+[2022-02-24 11:36:20.827] [remoteagent] [info] [127.0.0.1][072e09e8][ManagementConnection] New connection established.
+[2022-02-24 11:36:21.003] [remoteagent] [info] [127.0.0.1][d67c2d30][ExtensionHostConnection] New connection established.
+[2022-02-24 11:36:21.008] [remoteagent] [info] [127.0.0.1][d67c2d30][ExtensionHostConnection] <1414> Launched Extension Host Process.
+[2022-02-24 11:55:09.708] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task
+[2022-02-24 11:55:09.999] [remoteagent] [info] [127.0.0.1][072e09e8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-24 11:55:10.034] [remoteagent] [info] [127.0.0.1][d67c2d30][ExtensionHostConnection] <1414> Extension Host Process exited with code: 0, signal: null.
+[2022-02-24 11:55:10.034] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-24 11:55:14.037] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-24 11:55:14.037] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-24 11:55:14.167] [remoteagent] [info] [127.0.0.1][fe2b585b][ManagementConnection] New connection established.
+[2022-02-24 11:55:14.224] [remoteagent] [info] [127.0.0.1][193706c7][ExtensionHostConnection] New connection established.
+[2022-02-24 11:55:14.229] [remoteagent] [info] [127.0.0.1][193706c7][ExtensionHostConnection] <5929> Launched Extension Host Process.
+[2022-02-24 11:55:14.785] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task
+[2022-02-24 11:58:56.672] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/kylelamberton1)
+[2022-02-24 11:58:56.672] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-02-24 12:00:14.038] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-24 12:00:46.717] [remoteagent] [info] [127.0.0.1][fe2b585b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-24 12:00:46.751] [remoteagent] [info] [127.0.0.1][193706c7][ExtensionHostConnection] <5929> Extension Host Process exited with code: 0, signal: null.
+[2022-02-24 12:00:46.751] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-24 12:01:09.320] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-24 12:01:09.320] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-24 12:01:09.462] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] New connection established.
+[2022-02-24 12:01:09.493] [remoteagent] [info] [127.0.0.1][ddbc8d19][ExtensionHostConnection] New connection established.
+[2022-02-24 12:01:09.496] [remoteagent] [info] [127.0.0.1][ddbc8d19][ExtensionHostConnection] <7166> Launched Extension Host Process.
+[2022-02-24 12:03:28.510] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task-1
+[2022-02-24 12:06:09.321] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-24 12:07:05.261] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/kylelamberton1)
+[2022-02-24 12:07:05.261] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-02-24 12:07:05.362] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task-1
+[2022-02-24 12:32:05.502] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/kylelamberton1)
+[2022-02-24 12:32:05.502] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-02-24 12:33:22.731] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task
+[2022-02-24 13:38:05.385] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-02-24 14:02:14.530] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-02-24 14:02:14.531] [remoteagent] [info] [127.0.0.1][ddbc8d19][ExtensionHostConnection] The client has reconnected.
+[2022-02-24 14:02:14.574] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] The client has reconnected.
+[2022-02-24 14:26:44.982] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-02-24 15:01:08.716] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-02-24 15:01:08.716] [remoteagent] [info] [127.0.0.1][67a95426][ManagementConnection] New connection established.
+[2022-02-24 15:01:08.735] [remoteagent] [info] [127.0.0.1][09540015][ExtensionHostConnection] New connection established.
+[2022-02-24 15:01:08.738] [remoteagent] [info] [127.0.0.1][09540015][ExtensionHostConnection] <33315> Launched Extension Host Process.
+[2022-02-24 15:01:09.332] [remoteagent] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/kylelamberton1/duo-task
+[2022-02-24 15:06:08.808] [remoteagent] [info] [127.0.0.1][051532c2][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-02-24 15:06:09.592] [remoteagent] [info] [127.0.0.1][ddbc8d19][ExtensionHostConnection] <7166> Extension Host Process exited with code: 0, signal: null.
+[2022-02-24 17:03:05.790] [remoteagent] [info] [127.0.0.1][67a95426][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-02-24 19:06:04.049] [remoteagent] [info] [127.0.0.1][67a95426][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-02-24 19:06:04.050] [remoteagent] [info] [127.0.0.1][67a95426][ManagementConnection] The client has reconnected.
+[2022-02-24 19:06:04.134] [remoteagent] [info] [127.0.0.1][09540015][ExtensionHostConnection] The client has reconnected.
+[2022-02-24 19:07:05.023] [remoteagent] [info] [127.0.0.1][67a95426][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-24 19:07:05.053] [remoteagent] [info] [127.0.0.1][09540015][ExtensionHostConnection] <33315> Extension Host Process exited with code: 0, signal: null.
+[2022-02-24 19:07:05.053] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-24 19:12:05.053] [remoteagent] [info] Last EH closed, shutting down

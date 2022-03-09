@@ -1,0 +1,20 @@
+[2022-02-24T11:36:23.193Z] Validating found git in: git
+[2022-02-24T11:36:23.231Z] Using git 2.25.1 from git
+[2022-02-24T11:52:29.385Z] > git clone git@gitlab.com:qacdevops/duo-task.git /home/kylelamberton1/dockerfile_exercises/duo-task --progress [385ms]
+[2022-02-24T11:52:29.385Z] Cloning into '/home/kylelamberton1/dockerfile_exercises/duo-task'...
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2022-02-24T11:54:56.023Z] > git clone https://gitlab.com/qacdevops/duo-task.git /home/kylelamberton1/duo-task --progress [765ms]
+[2022-02-24T11:54:56.023Z] Cloning into '/home/kylelamberton1/duo-task'...
+remote: Enumerating objects: 38, done.        
+remote: Total 38 (delta 0), reused 0 (delta 0), pack-reused 38        
+[2022-02-24T11:54:56.620Z] > git rev-parse --git-dir [1ms]
+[2022-02-24T11:54:56.627Z] Open repository: /home/kylelamberton1/duo-task
+[2022-02-24T11:54:56.644Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-24T11:54:56.649Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-02-24T11:54:56.657Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-24T11:54:56.659Z] > git remote --verbose [3ms]
+[2022-02-24T11:54:56.670Z] > git config --get commit.template [6ms]

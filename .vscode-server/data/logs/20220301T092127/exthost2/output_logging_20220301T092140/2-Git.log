@@ -1,0 +1,32 @@
+[2022-03-01T09:21:42.057Z] Validating found git in: git
+[2022-03-01T09:21:42.109Z] Using git 2.25.1 from git
+[2022-03-01T09:21:42.182Z] > git rev-parse --git-dir [6ms]
+[2022-03-01T09:21:42.188Z] Open repository: /home/kylelamberton1/multi-stage-build-exercise
+[2022-03-01T09:21:42.265Z] > git symbolic-ref --short HEAD [41ms]
+[2022-03-01T09:21:42.281Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [13ms]
+[2022-03-01T09:21:42.292Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-03-01T09:21:42.297Z] > git remote --verbose [8ms]
+[2022-03-01T09:21:42.313Z] > git config --get commit.template [8ms]
+[2022-03-01T09:21:42.364Z] > git rev-parse --git-dir [8ms]
+[2022-03-01T09:21:42.371Z] Open repository: /home/kylelamberton1/duo-task
+[2022-03-01T09:21:42.401Z] > git symbolic-ref --short HEAD [4ms]
+[2022-03-01T09:21:42.406Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-01T09:21:42.414Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-03-01T09:21:42.417Z] > git remote --verbose [5ms]
+[2022-03-01T09:21:42.424Z] > git config --get commit.template [2ms]
+[2022-03-01T09:21:42.748Z] > git ls-files --stage -- /home/kylelamberton1/multi-stage-build-exercise/Dockerfile [4ms]
+[2022-03-01T09:33:38.692Z] > git ls-files --stage -- /home/kylelamberton1/multi-stage-build-exercise/pom.xml [3ms]
+[2022-03-01T09:33:38.699Z] > git cat-file -s 03393cb337bc06209beeb1ac086983a3fcc93eb6 [2ms]
+[2022-03-01T09:33:39.411Z] > git ls-files --stage -- /home/kylelamberton1/multi-stage-build-exercise/Dockerfile [3ms]
+[2022-03-01T10:59:33.370Z] > git rev-parse --git-dir [2ms]
+[2022-03-01T10:59:33.376Z] Open repository: /home/kylelamberton1/docker-compose-nginx-tutorial/python-front-and-back
+[2022-03-01T10:59:33.387Z] > git symbolic-ref --short HEAD [2ms]
+[2022-03-01T10:59:33.392Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-01T10:59:33.399Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-03-01T10:59:33.400Z] > git remote --verbose [2ms]
+[2022-03-01T10:59:33.406Z] > git config --get commit.template [1ms]
+[2022-03-01T10:59:35.125Z] > git symbolic-ref --short HEAD [1ms]
+[2022-03-01T10:59:35.130Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-01T10:59:35.137Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-03-01T10:59:35.139Z] > git remote --verbose [2ms]
+[2022-03-01T10:59:35.147Z] > git config --get commit.template [1ms]

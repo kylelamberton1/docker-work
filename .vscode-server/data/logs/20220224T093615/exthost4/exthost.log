@@ -1,0 +1,13 @@
+[2022-02-24 11:15:25.769] [exthost] [info] Extension host with pid 29598 started
+[2022-02-24 11:15:25.770] [exthost] [error] Error: EEXIST: file already exists, open '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805/vscode.lock'
+[2022-02-24 11:15:25.771] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-02-24 11:15:25.773] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805/vscode.lock': The lock does not look stale, elapsed: 907 ms, giving up.
+[2022-02-24 11:15:25.791] [exthost] [info] Lock '/home/kylelamberton1/.vscode-server/data/User/workspaceStorage/0ae0d497164512835d7cb615c39a8805-1/vscode.lock': Lock acquired.
+[2022-02-24 11:15:25.929] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2022-02-24 11:15:26.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-24 11:15:26.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-24 11:15:26.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-24 11:15:26.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-24 11:15:27.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-24 11:15:27.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-24 11:15:27.212] [exthost] [info] Eager extensions activated

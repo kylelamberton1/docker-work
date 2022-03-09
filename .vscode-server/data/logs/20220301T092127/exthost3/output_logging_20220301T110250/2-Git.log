@@ -1,0 +1,16 @@
+[2022-03-01T11:02:52.216Z] Validating found git in: git
+[2022-03-01T11:02:52.348Z] Using git 2.25.1 from git
+[2022-03-01T11:02:52.544Z] > git rev-parse --git-dir [1ms]
+[2022-03-01T11:02:52.550Z] Open repository: /home/kylelamberton1/duo-task
+[2022-03-01T11:02:52.572Z] > git symbolic-ref --short HEAD [4ms]
+[2022-03-01T11:02:52.578Z] > git rev-parse --git-dir [5ms]
+[2022-03-01T11:02:52.580Z] Open repository: /home/kylelamberton1/multi-stage-build-exercise
+[2022-03-01T11:02:52.588Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [11ms]
+[2022-03-01T11:02:52.601Z] > git remote --verbose [5ms]
+[2022-03-01T11:02:52.630Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+[2022-03-01T11:02:52.641Z] > git symbolic-ref --short HEAD [12ms]
+[2022-03-01T11:02:52.658Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [12ms]
+[2022-03-01T11:02:52.676Z] > git config --get commit.template [35ms]
+[2022-03-01T11:02:52.680Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-03-01T11:02:52.681Z] > git remote --verbose [6ms]
+[2022-03-01T11:02:52.691Z] > git config --get commit.template [3ms]
